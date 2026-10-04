@@ -2,8 +2,6 @@
 
 Databases, datasets, software, models, APIs, knowledgebases, and other computational resources for ecotoxicology.
 
-Each resource is listed once, in its most specific category. Cross-references are given where a resource is relevant to several sections.
-
 ## Contents
 
 - [Ecotoxicology Databases](#ecotoxicology-databases)
@@ -269,7 +267,7 @@ Contributions are welcome. Please read the [contribution guidelines](contributin
 
 ---
 
-## Related Projects
+## Related Topics
 
 - [GitHub topic: toxicology](https://github.com/topics/toxicology) - Repositories tagged with toxicology, useful for discovering adjacent projects.
 - [GitHub topic: computational-toxicology](https://github.com/topics/computational-toxicology) - Repositories tagged with computational toxicology.
