@@ -2,8 +2,6 @@
 
 Databases, datasets, software, models, APIs, knowledgebases, and other computational resources for ecotoxicology.
 
-**Scope:** computational approaches for understanding, predicting, and assessing the effects of chemical and other environmental stressors on organisms, populations, communities, and ecosystems. This covers ecotoxicology, aquatic and terrestrial toxicity, environmental exposure and fate, ecological risk assessment, species sensitivity, mechanistic ecotoxicology (including AOPs), ecological modelling, and computational prediction of ecotoxicological effects.
-
 Each resource is listed once, in its most specific category. Cross-references are given where a resource is relevant to several sections.
 
 ## Contents
@@ -271,40 +269,6 @@ Contributions are welcome. Please read the [contribution guidelines](contributin
 
 ---
 
-## Inclusion Criteria
-
-### Include
-
-- Ecotoxicology databases and knowledgebases
-- Experimental ecotoxicity datasets
-- Environmental contaminant and exposure databases
-- Environmental fate and transport resources
-- Ecotoxicity QSAR and read-across tools
-- Species sensitivity distribution tools and datasets
-- Cross-species toxicity extrapolation tools
-- AOP resources relevant to environmental and ecological effects
-- Ecological network and food-web resources
-- Species occurrence and biodiversity resources used in ecotoxicological modelling
-- Ecosystem and population-level models
-- Machine-learning datasets and models with ecotoxicological applications
-- Cheminformatics tools used for environmental chemical assessment
-- Omics resources with clear mechanistic ecotoxicology applications
-- APIs and programmatic interfaces to relevant resources
-- Regulatory resources with substantial computational or data-analysis utility
-
-### Exclude
-
-- General human clinical or pharmaceutical resources without an ecotoxicological application
-- Generic AI, machine-learning, or statistics libraries without a relevant toxicology or environmental use case
-- General ecology resources with no clear connection to ecotoxicology
-- Commercial databases with no meaningful public access
-- Individual research papers that do not provide a reusable dataset, software package, model, database, or other resource
-- Unmaintained personal repositories when a maintained official resource exists
-- Duplicate mirrors of established databases
-- Resources whose primary purpose is unrelated to chemical or environmental effects
-
----
-
 ## Related Projects
 
 - [GitHub topic: toxicology](https://github.com/topics/toxicology) - Repositories tagged with toxicology, useful for discovering adjacent projects.
@@ -319,3 +283,7 @@ This list is intentionally narrower than a general computational toxicology reso
 Resources should be periodically rechecked for availability, maintenance status, licensing, and current URLs.
 
 **Last reviewed:** 4 October 2026
+
+---
+
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
